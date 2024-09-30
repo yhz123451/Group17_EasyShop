@@ -6,7 +6,10 @@ Our product can help people compare prices of items they want to buy and track r
 Similarly, in this program, because of the inability to work with commercial companies such as Amazon, ebay, etc., the product needs to use a crawler to get the data, which will not be published in order to ensure the security of the copyright and will only be shown in the demo.
 
 1. double-click to start the crawler program
-2. Find the server file in your project, go to it, right click to open command type "npm start"
-3. Open HbuilderX, import the project and run it on your browser or phone
+2. Import the database under the main branch into mysql
+3. Open HbuilderX, import the project
+4. Find the db file in the documentation and modify the link mysql database information
+5. Find the server file in your project, go to it, right click to open command type "npm start"
+6. run it on your browser or phone
 
   The app can be viewed under that site: http://127.0.0.1:8080/#/
