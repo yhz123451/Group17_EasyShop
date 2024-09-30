@@ -1,4 +1,5 @@
 # CSIT321_Group17_EasyShop
+The code is in branch master.
 
 Our product can help people compare prices of items they want to buy and track related product information to help people make decisions easier. Before starting the project, it is required to install Uniapp, Hbuilder, node.js and mysql in your computer and configure its related environment. Because of copyright issues, the project does not support the shelves of the store with others to use commercially, if any infringement will be prosecuted. Also the project is not deployed to a server and is only allowed to run locally and debug on mobile.
 
