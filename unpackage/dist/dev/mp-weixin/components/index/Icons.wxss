@@ -1,0 +1,25 @@
+
+.icons.data-v-4d8061dc {
+	display: flex;
+	flex-wrap: wrap;
+}
+.icons-item.data-v-4d8061dc {
+	width: 25%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding-top: 30rpx;
+	font-size: 20rpx;
+}
+.icons-img.data-v-4d8061dc {
+	width: 110rpx;
+	height: 110rpx;
+	border-radius: 30rpx; /* 设置弧度 */
+	margin-bottom: 10rpx; /* 设置与文字的间距 */
+}
+.icons-name.data-v-4d8061dc {
+	margin-top: 10rpx; /* 确保文字与图片之间有间距 */
+	text-align: center;
+}
+

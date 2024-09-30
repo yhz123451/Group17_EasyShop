@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*每个页面公共css */
+/* Global css */
+/* Default font colour */
+.f_color {
+	color: #000000;
+}
+/* Selected font colour */
+.f_active_color {
+	color: #E5E9DB;
+}
+/* background color */
+.bg_color {
+	background-color: #E5E9DB;
+}
+.searchcolor {
+	background-color: #FFF;
+}
+

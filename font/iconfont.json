@@ -1,0 +1,37 @@
+{
+  "id": "4572399",
+  "name": "Easyshop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "766834",
+      "name": "下箭头",
+      "font_class": "downarrow",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "766837",
+      "name": "上箭头",
+      "font_class": "toparrow",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "5288587",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "7962825",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    }
+  ]
+}

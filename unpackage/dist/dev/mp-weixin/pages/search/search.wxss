@@ -1,0 +1,17 @@
+
+.search-item.data-v-4cedc0c6 {
+	padding: 20rpx;
+}
+.search-title.data-v-4cedc0c6 {
+	display: flex;
+	justify-content: space-between;
+}
+.search-name.data-v-4cedc0c6 {
+	padding: 4rpx 24rpx;
+	background-color: #E5E9DB;
+	display: inline-block;
+	border-radius: 30rpx;
+	margin: 10rpx;
+}
+
+

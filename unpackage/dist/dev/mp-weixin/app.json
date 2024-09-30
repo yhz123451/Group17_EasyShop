@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/search/search",
+    "pages/wishlist/wishlist",
+    "pages/account/account",
+    "pages/searchlist/searchlist"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#E5E9DB",
+    "titleImage": "./static/image/logo.png",
+    "backgroundColor": "#F8F8F8",
+    "navigationBarHeight": "60px"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "height": "80px",
+    "iconWidth": "40px",
+    "spacing": "5px",
+    "fontSize": "16px",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/image/tabbar/home.png",
+        "selectedIconPath": "static/image/tabbar/home1.png",
+        "text": "Home"
+      },
+      {
+        "pagePath": "pages/search/search",
+        "iconPath": "static/image/tabbar/search.png",
+        "selectedIconPath": "static/image/tabbar/search1.png",
+        "text": "Search"
+      },
+      {
+        "pagePath": "pages/wishlist/wishlist",
+        "iconPath": "static/image/tabbar/like.png",
+        "selectedIconPath": "static/image/tabbar/like1.png",
+        "text": "Wishlist"
+      },
+      {
+        "pagePath": "pages/account/account",
+        "iconPath": "static/image/tabbar/avatar.png",
+        "selectedIconPath": "static/image/tabbar/avatar1.png",
+        "text": "Account"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

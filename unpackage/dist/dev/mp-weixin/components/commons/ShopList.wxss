@@ -1,0 +1,40 @@
+
+.shop-title.data-v-956c7254 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #E5E9DB;
+	padding: 20rpx 0;
+}
+.shop-items.data-v-956c7254 {
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+	max-width: 600rpx;
+}
+.shop_item.data-v-956c7254 {
+	display: flex;
+	flex-direction: row; /* 水平排列 */
+	align-items: center; /* 垂直居中对齐 */
+	flex: 1; /* 占据三分之一的空间 */
+	justify-content: center; /* 水平居中 */
+	text-align: center; /* 使文字和图标在盒子内居中 */
+	margin: 0 10rpx; /* 添加左右间距 */
+	padding: 10rpx;
+	border-radius: 20rpx;
+	transition: background-color 0.3s, color 0.3s; /* 添加过渡效果 */
+}
+.shop-text.data-v-956c7254 {
+	font-size: 28rpx;
+	color: #333;
+	margin-right: 10rpx; /* 确保文本和图标之间有间距 */
+}
+.icon.data-v-956c7254 {
+	width: 40rpx;
+	height: 40rpx;
+}
+.active.data-v-956c7254 {
+	background-color: #87CEFA; /* 背景颜色，例如金黄色 */
+	color: white; /* 文本颜色变白 */
+}
+

@@ -1,0 +1,36 @@
+
+.commodity.data-v-6beba2fb {
+  display: flex;
+}
+.commodity-item.data-v-6beba2fb {
+  padding-bottom: 20rpx;
+}
+.commodity-img.data-v-6beba2fb {
+  width: 100%;
+  /* 可以在这里设置默认圆角 */
+  border-radius: 20rpx;
+}
+.commodity-content.data-v-6beba2fb {
+  text-align: left; /* 保持其他文本左对齐 */
+}
+.commodity-name.data-v-6beba2fb {
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  font-weight: bold;
+  word-break: break-all;
+  padding: 5rpx 20rpx;
+}
+.classification.data-v-6beba2fb {
+  text-align: left;
+  font-style: italic;
+}
+.price.data-v-6beba2fb {
+  text-align: center;
+  padding: 2rpx 5rpx;
+  font-size: 30rpx;
+}
+

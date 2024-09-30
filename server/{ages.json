@@ -1,0 +1,267 @@
+{
+	"data": [{
+		"data": [{
+			"imgUrl": "../../static/image/swiper/mi2.webp"
+		}, {
+			"imgUrl": "../../static/image/swiper/mi1.webp"
+		}, {
+			"imgUrl": "../../static/image/swiper/mi3.webp"
+		}, {
+			"imgUrl": "../../static/image/swiper/mi4.webp"
+		}],
+		"type": "swiperList"
+	}, {
+		"data": [],
+		"type": "recommendList"
+	}, {
+		"data": [{
+			"classification": "Men's Shoes",
+			"id": 1,
+			"imgUrl": "../../static/image/commodity/nk11.png",
+			"name": "Air Jordan 1 Retro High OG1111111111111",
+			"price": "$250"
+		}, {
+			"classification": "Women's Shoes",
+			"id": 2,
+			"imgUrl": "../../static/image/commodity/nk22.png",
+			"name": "Air Jordan 1 High Method of Make",
+			"price": "$230"
+		}, {
+			"classification": "Women's Shoes",
+			"id": 3,
+			"imgUrl": "../../static/image/commodity/ad11.png",
+			"name": "NMD_R1 SHOES",
+			"price": "$220"
+		}, {
+			"classification": "Men's Shoes",
+			"id": 4,
+			"imgUrl": "../../static/image/commodity/ad22.png",
+			"name": "GAZELLE INDOOR SHOES",
+			"price": "$200"
+		}],
+		"type": "commodityList"
+	}],
+	"topBar": [{
+		"__ob__": {
+			"dep": {
+				"id": 404,
+				"subs": [{
+					"active": true,
+					"before": "function before () {\n      if (vm._isMounted && !vm._isDestroyed) {\n        callHook(vm, 'beforeUpdate');\n      }\n    }",
+					"cb": "function noop (a, b, c) {}",
+					"deep": false,
+					"depIds": "Object",
+					"deps": "Object",
+					"dirty": false,
+					"expression": "function () {\n      vm._update(vm._render(), hydrating);\n    }",
+					"getter": "function () {\n      vm._update(vm._render(), hydrating);\n    }",
+					"id": 56,
+					"lazy": false,
+					"newDepIds": "Object",
+					"newDeps": "Object",
+					"sync": false,
+					"user": false,
+					"vm": "Object"
+				}]
+			},
+			"value": {
+				"__ob__": {
+					"dep": {
+						"id": 404,
+						"subs": "Object"
+					},
+					"value": {
+						"__ob__": "Object"
+					},
+					"vmCount": 0
+				}
+			},
+			"vmCount": 0
+		}
+	}, {
+		"__ob__": {
+			"dep": {
+				"id": 407,
+				"subs": [{
+					"active": true,
+					"before": "function before () {\n      if (vm._isMounted && !vm._isDestroyed) {\n        callHook(vm, 'beforeUpdate');\n      }\n    }",
+					"cb": "function noop (a, b, c) {}",
+					"deep": false,
+					"depIds": "Object",
+					"deps": "Object",
+					"dirty": false,
+					"expression": "function () {\n      vm._update(vm._render(), hydrating);\n    }",
+					"getter": "function () {\n      vm._update(vm._render(), hydrating);\n    }",
+					"id": 56,
+					"lazy": false,
+					"newDepIds": "Object",
+					"newDeps": "Object",
+					"sync": false,
+					"user": false,
+					"vm": "Object"
+				}]
+			},
+			"value": {
+				"__ob__": {
+					"dep": {
+						"id": 407,
+						"subs": "Object"
+					},
+					"value": {
+						"__ob__": "Object"
+					},
+					"vmCount": 0
+				}
+			},
+			"vmCount": 0
+		}
+	}, {
+		"__ob__": {
+			"dep": {
+				"id": 410,
+				"subs": [{
+					"active": true,
+					"before": "function before () {\n      if (vm._isMounted && !vm._isDestroyed) {\n        callHook(vm, 'beforeUpdate');\n      }\n    }",
+					"cb": "function noop (a, b, c) {}",
+					"deep": false,
+					"depIds": "Object",
+					"deps": "Object",
+					"dirty": false,
+					"expression": "function () {\n      vm._update(vm._render(), hydrating);\n    }",
+					"getter": "function () {\n      vm._update(vm._render(), hydrating);\n    }",
+					"id": 56,
+					"lazy": false,
+					"newDepIds": "Object",
+					"newDeps": "Object",
+					"sync": false,
+					"user": false,
+					"vm": "Object"
+				}]
+			},
+			"value": {
+				"__ob__": {
+					"dep": {
+						"id": 410,
+						"subs": "Object"
+					},
+					"value": {
+						"__ob__": "Object"
+					},
+					"vmCount": 0
+				}
+			},
+			"vmCount": 0
+		}
+	}, {
+		"__ob__": {
+			"dep": {
+				"id": 413,
+				"subs": [{
+					"active": true,
+					"before": "function before () {\n      if (vm._isMounted && !vm._isDestroyed) {\n        callHook(vm, 'beforeUpdate');\n      }\n    }",
+					"cb": "function noop (a, b, c) {}",
+					"deep": false,
+					"depIds": "Object",
+					"deps": "Object",
+					"dirty": false,
+					"expression": "function () {\n      vm._update(vm._render(), hydrating);\n    }",
+					"getter": "function () {\n      vm._update(vm._render(), hydrating);\n    }",
+					"id": 56,
+					"lazy": false,
+					"newDepIds": "Object",
+					"newDeps": "Object",
+					"sync": false,
+					"user": false,
+					"vm": "Object"
+				}]
+			},
+			"value": {
+				"__ob__": {
+					"dep": {
+						"id": 413,
+						"subs": "Object"
+					},
+					"value": {
+						"__ob__": "Object"
+					},
+					"vmCount": 0
+				}
+			},
+			"vmCount": 0
+		}
+	}, {
+		"__ob__": {
+			"dep": {
+				"id": 416,
+				"subs": [{
+					"active": true,
+					"before": "function before () {\n      if (vm._isMounted && !vm._isDestroyed) {\n        callHook(vm, 'beforeUpdate');\n      }\n    }",
+					"cb": "function noop (a, b, c) {}",
+					"deep": false,
+					"depIds": "Object",
+					"deps": "Object",
+					"dirty": false,
+					"expression": "function () {\n      vm._update(vm._render(), hydrating);\n    }",
+					"getter": "function () {\n      vm._update(vm._render(), hydrating);\n    }",
+					"id": 56,
+					"lazy": false,
+					"newDepIds": "Object",
+					"newDeps": "Object",
+					"sync": false,
+					"user": false,
+					"vm": "Object"
+				}]
+			},
+			"value": {
+				"__ob__": {
+					"dep": {
+						"id": 416,
+						"subs": "Object"
+					},
+					"value": {
+						"__ob__": "Object"
+					},
+					"vmCount": 0
+				}
+			},
+			"vmCount": 0
+		}
+	}, {
+		"__ob__": {
+			"dep": {
+				"id": 419,
+				"subs": [{
+					"active": true,
+					"before": "function before () {\n      if (vm._isMounted && !vm._isDestroyed) {\n        callHook(vm, 'beforeUpdate');\n      }\n    }",
+					"cb": "function noop (a, b, c) {}",
+					"deep": false,
+					"depIds": "Object",
+					"deps": "Object",
+					"dirty": false,
+					"expression": "function () {\n      vm._update(vm._render(), hydrating);\n    }",
+					"getter": "function () {\n      vm._update(vm._render(), hydrating);\n    }",
+					"id": 56,
+					"lazy": false,
+					"newDepIds": "Object",
+					"newDeps": "Object",
+					"sync": false,
+					"user": false,
+					"vm": "Object"
+				}]
+			},
+			"value": {
+				"__ob__": {
+					"dep": {
+						"id": 419,
+						"subs": "Object"
+					},
+					"value": {
+						"__ob__": "Object"
+					},
+					"vmCount": 0
+				}
+			},
+			"vmCount": 0
+		}
+	}]
+}

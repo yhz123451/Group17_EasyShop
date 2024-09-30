@@ -1,0 +1,17 @@
+
+.swiper.data-v-b5b2b83c {
+	width: 100%;
+	height: 800rpx;
+}
+.swiper-item.data-v-b5b2b83c {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+.swiper_img.data-v-b5b2b83c {
+	display: block;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+

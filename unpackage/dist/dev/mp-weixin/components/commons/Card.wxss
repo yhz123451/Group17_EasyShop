@@ -1,0 +1,12 @@
+
+.card.data-v-e007179c{
+	padding: 20rpx 0;
+	display: flex;
+	justify-content: center;
+	font-weight: bold;
+}
+.card-name.data-v-e007179c {
+	padding: 0 20rpx;
+	font-size: 32rpx;
+}
+

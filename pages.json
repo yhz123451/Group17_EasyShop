@@ -1,0 +1,285 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/index/index",
+			"style": {
+				"app-plus": {
+					"scrollIndicator": "none",
+					"titleNView": {
+					
+					}
+				}
+			}
+		},
+		{
+			"path" : "pages/search/search",
+			"style" : 
+			{
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"app-plus": {
+					"scrollIndicator": "none",
+					"titleNView": {
+						"searchInput": {
+							"placeholder": "nike",
+							"disabled": false,
+							"align": "left",
+							"autoFocus": true,
+							"borderRadius": "20px",
+							"backgroundColor": "#E5E9DB",
+							"placeholderColor": "#000000"
+						},
+						"buttons": [
+							{
+								"float": "right",
+								"color": "#000000",
+								"text": "Search",
+								"fontSize": "16px",
+								"width": "60px"
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"path" : "pages/wishlist/wishlist",
+			"style" : 
+			{
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path" : "pages/account/account",
+			"style" : 
+			{
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path" : "pages/searchlist/searchlist",
+			"style" :
+			{
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"app-plus": {
+					"scrollIndicator": "none",
+					"titleNView": {
+						"searchInput": {
+							"placeholder": "nike",
+							"disabled": false,
+							"align": "left",
+							"borderRadius": "20px",
+							"backgroundColor": "#E5E9DB",
+							"placeholderColor": "#000000"
+						},
+						"buttons": [
+							{
+								"float": "right",
+								"color": "#000000",
+								"text": "Filter",
+								"fontSize": "16px",
+								"width": "60px"
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"path" : "pages/details/details",
+			"style" : 
+			{
+				"navigationBarTitleText": "Item Information",
+				"app-plus": {
+					"scrollIndicator": "none",
+					"titleNView": {
+						"type": "transparent",
+						"buttons": [
+							{
+								"type": "menu"
+							},
+							{
+								"type": "share"
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"path" : "pages/config/config",
+			"style" : 
+			{
+				"navigationBarTitleText" : "Setting"
+			}
+		},
+		{
+			"path" : "pages/myaddress/myaddress",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+				
+			}
+		},
+		{
+			"path" : "pages/myaddress/myaddress",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/newaddress/newaddress",
+			"style" : 
+			{
+				"app-plus": {
+					"scrollIndicator": "none",
+					"titleNView": {
+						"buttons": [
+							{
+								"float": "right",
+								"color": "#000000",
+								"text": "Save",
+								"fontSize": "16px",
+								"width": "60px"
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"path" : "pages/my-order/my-order",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/confirm-order/confirm-order",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/payment/payment",
+			"style" : 
+			{
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path" : "pages/payment-success/payment-success",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/login/login",
+			"style" : 
+			{
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path" : "pages/register/register",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/contactUs/contactUs",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/orderHistory/orderHistory",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/updateUserInfo/updateUserInfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/goForgetPassword1/goForgetPassword1",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/goForgetPassword2/goForgetPassword2",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#E5E9DB",
+		"titleImage": "./static/image/logo.png",
+		"backgroundColor": "#F8F8F8",
+		"navigationBarHeight": "60px"
+	},
+	// "tabBar": {
+	// 	"color": "#7A7E83",
+	// 	"selectedColor": "#3cc51f",
+	// 	"borderStyle": "black",
+	// 	"backgroundColor": "#ffffff",
+	// 	"height": "80px",
+	// 	"iconWidth": "40px",
+	// 	"spacing": "5px",
+	// 	"fontSize": "16px",
+	// 	"list": [{
+	// 		"pagePath": "pages/index/index",
+	// 		"iconPath": "static/image/tabbar/home.png",
+	// 		"selectedIconPath": "static/image/tabbar/home1.png",
+	// 		"text": "Home"
+	// 	}, {
+	// 		"pagePath": "pages/search/search",
+	// 		"iconPath": "static/image/tabbar/search.png",
+	// 		"selectedIconPath": "static/image/tabbar/search1.png",
+	// 		"text": "Search"
+	// 	}, {
+	// 		"pagePath": "pages/wishlist/wishlist",
+	// 		"iconPath": "static/image/tabbar/like.png",
+	// 		"selectedIconPath": "static/image/tabbar/like1.png",
+	// 		"text": "Wishlist"
+	// 	}, {
+	// 		"pagePath": "pages/account/account",
+	// 		"iconPath": "static/image/tabbar/avatar.png",
+	// 		"selectedIconPath": "static/image/tabbar/avatar1.png",
+	// 		"text": "Account"
+	// 	}]
+	// },
+	"uniIdRouter": {}
+}
