@@ -650,9 +650,9 @@ router.get('/api/checkWishPrice', function(req, res, next) {
           if(Number(amazon_price) != tmp_amazon_price){
             connection.query(wish.updateAmazonData({id:gid,price:tmp_amazon_price}), function (error, results, fields)  {
               if (error) throw error;
-              connection.query('delete from user_notice where source = ? and wid = ?', ['AMAZOM',wid],function (error, results, fields) {
+              connection.query('delete from user_notice where source = ? and wid = ?', ['AMAZON',wid],function (error, results, fields) {
                   if (error) throw error;
-                  connection.query('INSERT INTO user_notice(uid,gid,source,price,wid,changeMsg) VALUES (?, ?, ?, ?, ?,?)', [userId,gid,'AMAZOM',tmp_amazon_price,wid,"$"+amazon_price+"->$"+tmp_amazon_price],function (error, results, fields) {
+                  connection.query('INSERT INTO user_notice(uid,gid,source,price,wid,changeMsg) VALUES (?, ?, ?, ?, ?,?)', [userId,gid,'AMAZON',tmp_amazon_price,wid,"$"+amazon_price+"->$"+tmp_amazon_price],function (error, results, fields) {
                       if (error) throw error;
                   });
               });
