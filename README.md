@@ -5,7 +5,7 @@ Our product can help people compare prices of items they want to buy and track r
 
 Similarly, in this program, because of the inability to work with commercial companies such as Amazon, ebay, etc., the product needs to use a crawler to get the data, which will not be published in order to ensure the security of the copyright and will only be shown in the demo.
 
-1. double-click to start the crawler program
+1. double-click to start the crawler program (Not for all users)
 2. Import the database under the main branch into mysql
 3. Open HbuilderX, import the project（download from https://www.dcloud.io/hbuilderx.html）
 4. Find the db file in the documentation and modify the link mysql database information
