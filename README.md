@@ -7,9 +7,9 @@ Similarly, in this program, because of the inability to work with commercial com
 
 1. double-click to start the crawler program
 2. Import the database under the main branch into mysql
-3. Open HbuilderX, import the project
+3. Open HbuilderX, import the project（download from https://www.dcloud.io/hbuilderx.html）
 4. Find the db file in the documentation and modify the link mysql database information
 5. Find the server file in your project, go to it, right click to open command type "npm start"
 6. run it on your browser or phone
 
-  The app can be viewed under that site: http://127.0.0.1:8080/#/
+Since the project is not deployed to a server, the code is run in the local environment (local stands for personal computer)
